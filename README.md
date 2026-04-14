@@ -7,4 +7,4 @@ Müşteri şikayet metinlerinden oluşan veri seti, herhangi bir ön işleme uyg
 
 GitHub dosya boyutu sınırlamaları nedeniyle veri seti harici olarak barındırılmaktadır.
 Kaggle veri seti linki:  
-https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
+https://www.kaggle.com/datasets/selener/consumer-complaint-database
